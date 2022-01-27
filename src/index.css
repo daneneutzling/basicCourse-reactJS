@@ -3,4 +3,7 @@ body {
     background-color: #444;
     color: #fff;
     text-align: center;
+
+    /*background gradient*/
+    background: -webkit-linear-gradient(to right, #bdc3c7, #2c3e50);
 }
